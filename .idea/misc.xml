@@ -19,9 +19,6 @@
     <option name="featureWarnings" value="true" />
     <option name="incrementalityType" value="SBT" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration>C:\Users\kozak\AppData\Roaming\Subversion</configuration>
-  </component>
   <component name="ValidationConfiguration">
     <option name="VALIDATE_ON_BUILD" value="true" />
     <option name="VALIDATORS">
