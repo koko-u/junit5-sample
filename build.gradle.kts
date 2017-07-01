@@ -47,7 +47,9 @@ subprojects {
 
     dependencies {
         testCompileOnly("org.projectlombok:lombok:1.16.16")
+
         testCompile("org.junit.jupiter:junit-jupiter-api:5.0.0-M4")
+        testCompile("org.junit.jupiter:junit-jupiter-params:5.0.0-M4")
         testRuntime("org.junit.jupiter:junit-jupiter-engine:5.0.0-M4")
 
         testCompile("org.assertj:assertj-core:3.8.0")
