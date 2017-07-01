@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Documents/Scala/basic-syntax" value="1476543504326" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ScalaCompilerConfiguration">
+    <option name="deprecationWarnings" value="true" />
+    <option name="uncheckedWarnings" value="true" />
+    <option name="featureWarnings" value="true" />
+    <option name="incrementalityType" value="SBT" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\kozak\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="ValidationConfiguration">
+    <option name="VALIDATE_ON_BUILD" value="true" />
+    <option name="VALIDATORS">
+      <map>
+        <entry key="EJB Validator" value="true" />
+        <entry key="Faces Validator" value="true" />
+        <entry key="FreeMarker" value="true" />
+        <entry key="Hibernate Validator" value="true" />
+        <entry key="JPA Validator" value="true" />
+        <entry key="Jasper Validator" value="true" />
+        <entry key="Spring Model Validator" value="true" />
+        <entry key="Spring Web Flow" value="true" />
+        <entry key="Struts 2 Model Validator" value="true" />
+        <entry key="Struts 2 Validation Model Validator" value="true" />
+        <entry key="Struts Model validator" value="true" />
+        <entry key="Struts Validation Model validator" value="true" />
+        <entry key="Tiles Model validator" value="true" />
+        <entry key="Web Xml Validator" value="true" />
+      </map>
+    </option>
+  </component>
+</project>
